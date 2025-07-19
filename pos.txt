@@ -1,0 +1,1 @@
+path modify odoo pos print 'C:\odoo\addons\point_of_sale\static\src\app\screens\receipt_screen\receipt\order_receipt.xml'
